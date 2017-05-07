@@ -4,5 +4,15 @@
   "main": "index.js",
   "repository": "https://github.com/othman853/yet-another-digital-notebook.git",
   "author": "othman853 <anuar.yasser@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "generate": "webpack --config webpack.config.js"
+  },
+  "devDependencies": {
+    "bulma": "^0.4.1",
+    "css-loader": "^0.28.1",
+    "express": "^4.15.2",
+    "style-loader": "^0.17.0",
+    "webpack": "^2.5.1"
+  }
 }
