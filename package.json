@@ -1,0 +1,8 @@
+{
+  "name": "yet-another-digital-notebook",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/othman853/yet-another-digital-notebook.git",
+  "author": "othman853 <anuar.yasser@gmail.com>",
+  "license": "MIT"
+}
